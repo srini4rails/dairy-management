@@ -50,8 +50,9 @@ test:
 
 production:
   adapter: postgresql
+  host: ec2-107-22-192-243.compute-1.amazonaws.com
   encoding: unicode
-  database: dairy_mgmt_pro
+  database: yzltipvdqb
   pool: 5
-  username: postgres
-  password: root
+  username: yzltipvdqb
+  password: tMQyPN_uqHc5eiYiwBn4
